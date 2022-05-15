@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa&family=PT+Mono&display=swap');
 //Cores
 $bege-claro: #edece4;
 $bege-medio: #cbc6b9;
@@ -14,9 +15,9 @@ $font2: 'Aref Ruqaa', serif;
 }
 
 @mixin tipo-1($size){
-    font-family: $font-1;
+    font-family: $font1;
     @if $size == 18{
-        font-size: em();
+        font-size: em(18);
         line-height: em(30, 18);
     }
 }
