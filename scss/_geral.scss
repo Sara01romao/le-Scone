@@ -3,3 +3,18 @@ body{
     border: 10px solid $bege-medio;
     color: $cinza;
 }
+
+h1{
+    position: relative;
+    display: flex;
+    align-items: center;
+    &::after{
+        content: '';
+        width: 80%;
+        height: 3px;
+        background-color: $bege-escuro;
+        position: absolute;
+        right: 0;
+        
+    }
+}
