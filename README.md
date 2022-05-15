@@ -6,7 +6,7 @@
  <h3 align="center">Le Scone </h3>
 
 ## 💻  Sobre o Projeto
-Projeto elaborado durante o curso de SASS da Origamid, com as principais funcionalidade do pré-processador: variáveis, mixins, funções e condicionais.
+Projeto elaborado durante o curso de CSS com SASS da Origamid, com as principais funcionalidade do pré-processador: variáveis, mixins, funções e condicionais.
 <br>
 
 
