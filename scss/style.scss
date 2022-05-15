@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa&family=PT+Mono&display=swap');
 @import 'reset';
 @import 'grid';
-@import 'variaveis-e-minins';
-@import 'geral'
+@import 'variaveis-e-mixins';
+@import 'geral';
 
 
-
+//partes
+@import 'intro'
